@@ -1,4 +1,5 @@
 # Dockerized Screaming Frog SEO Spider
+## Run Screaming Frog cli in docker container
 - Based on Ubuntu 18.04
 - Launches the X virtual frame buffer (Xvfb) which emulates an X11 display (For Screamingfrog's embeded browser working)
 
